@@ -1,0 +1,17 @@
+Inicia un nuevo repositorio
+git init
+
+añade los cambios al stage
+git add [direccion]
+
+añade los cambios al repositorio
+git commit -m "mensaje del commit"
+
+añade un repositorio remoto
+git remote add [nombre del repo remoto] [direccion del repo remoto]
+
+sube los cambio al repo remoto
+git push origin [nombre de la rama]
+
+descarga los cambios del repo remoto
+git pull origin [nombre rama]
