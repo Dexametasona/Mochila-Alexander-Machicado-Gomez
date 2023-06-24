@@ -1,8 +1,8 @@
 ip publica y privada
-192.168.0.17
+10.0.2.15
 179.7.56.16
 
-direccion mac 4c:79:6e:5f:60:77
+direccion mac 08:00:27:d8:d9:1f
 
 diferencia entre ip publica y privada
 Una dirección IP pública es asignada por el proveedor de servicios de
