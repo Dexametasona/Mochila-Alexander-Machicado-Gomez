@@ -1,8 +1,0 @@
-ip publica y privada
-10.0.2.15
-179.7.56.16
-
-direccion mac :08:00:27:d8:d9:1f
-
-diferencia entre ip publica y privada
-Una dirección IP pública es asignada por el proveedor de servicios de Internet y se utiliza para identificar de manera única un dispositivo en Internet, permitiendo la comunicación directa con otros dispositivos en la red global. Por otro lado, una dirección IP privada se utiliza en redes locales y es asignada por el enrutador o servidor DHCP, no siendo accesible directamente desde Internet. En su lugar, se utiliza la traducción de direcciones de red para compartir una única dirección IP pública entre múltiples dispositivos en la red local.
